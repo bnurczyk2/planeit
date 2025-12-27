@@ -1,6 +1,6 @@
 # 🌍 PlaneIt! (WIP)
 
-A collection of scripts used to derive TCT coefficients for PlanetScope 4‑ and 8‑band imagery, along with modules for comparing dimensional‑reduction methods on PlanetScope data in disease‑ecology and food‑security case studies.
+Code used in the derivation of TCT coefficents for PlanetScope 4-/8-band imagery; additional modules for comparison of dimension reduction methods of spectral Planetscope imagery in disease ecology/ food insecurity use cases.
 
 ## Dependencies
 
